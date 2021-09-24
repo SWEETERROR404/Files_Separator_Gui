@@ -85,7 +85,7 @@ class Ui_Dialog(QMainWindow):
         self.cancelbtn.setText(_translate("Dialog", "Close"))
         self.browserbtn.setText(_translate("Dialog", "Browser"))
         self.enterthepath.setText(_translate("Dialog", "     Enter The Path "))
-        self.link.setText(_translate("Dialog", "https://m.facebook.com/Programmer404.py"))
+        self.link.setText(_translate("Dialog", "https://m.facebook.com/sweeterror404"))
         self.contactme.setText(_translate("Dialog", "-: Contact me on Facebook :- "))
 
     def working(self, Dialog):
